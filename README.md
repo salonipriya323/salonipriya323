@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning PYTHON USING Django
 - 💞 First listen then think and then execute
 - 📫 How to reach me ...Email: salonipriya323.sp@gmail.com
-                         Linkedin: Saloni Priya
+- Linkedin: https://www.linkedin.com/in/saloni-p-0569901a3
 
 <!---
 salonipriya323/salonipriya323 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
