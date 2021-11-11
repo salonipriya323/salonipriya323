@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @salonipriya323
 - 👀 I’m interested in C,C++,JAVA,PYTHON,WEB DEVELOPMENT,ANDROID APP DEVELOPMENT
-- 🌱 I’m currently learning PYTHON With Django
+- 🌱 I’m currently learning PYTHON using Django
 - 💞 First listen then think and then execute
 - 📫 How to reach me ...Email: salonipriya323.sp@gmail.com
 - Linkedin: https://www.linkedin.com/in/saloni-p-0569901a3
