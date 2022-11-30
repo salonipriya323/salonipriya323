@@ -42,4 +42,4 @@ I've been coding for around 1 year
 
 ### Support Me
 
-<a href="https://www.buymeacoffee.com/saikatsamaG"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+<a href="https://www.buymeacoffee.com/salonipriya323"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
