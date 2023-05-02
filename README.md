@@ -6,7 +6,7 @@ Full stack web developer
 
 I've been coding for around 1 year
 
-* 🌍  I'm based in Jaipur
+* 🌍  I'm based in Pune
 * ✉️  You can contact me at [salonipriya323.sp@gmail.com](mailto:salonipriya323.sp@gmail.com)
 * 🧠  I'm learning javascript, react, node.js
 * 🤝  I'm open to collaborating on react projects.
